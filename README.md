@@ -23,7 +23,7 @@ This project is a **Streamlit-based chat interface** designed to simulate an **i
 ## 🛠️ **Installation & Setup**  
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/conversational-attack-simulation.git
+git clone https://github.com/GargiChakraborty105/conversational-attack-simulation.git
 cd conversational-attack-simulation
 ```
 2️⃣ **Install Dependencies**  
